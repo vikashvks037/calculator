@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(161, 154, 154);
+}
+
+
+article{
+    padding-left: 2px;
+    margin: 3px auto;
+    border: 2px solid rgb(189, 177, 177);
+    width: 20rem;
+}
+
+section button{
+    margin: 2px;
+    height: 70px;
+    width: 70px;
+    font-size: 30px;
+    border-radius: 20px;
+
+}
+
+input{
+    width: 95%;
+    height: 4rem;
+    border-radius: 12px;
+    font-size: 25px;
+}
+/* 
+h1{
+    text-align: center;
+} */
+
+section button:hover{
+    background: rgb(145, 120, 120);
+}
